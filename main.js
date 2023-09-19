@@ -1,7 +1,7 @@
 const con=document.querySelector('.con');
 
 
-for(let i=1;i<=100;i++){
+for(let i=1;i<=120;i++){
   const para = document.createElement("div");
   para.classList.add("box1");
   const colorcode =getRandomColor();
